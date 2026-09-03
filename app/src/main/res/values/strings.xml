@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kazanova Keyboard</string>
+    <string name="app_description">Arabic and English keyboard input method</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="language">Language</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="theme">Theme</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="enable_vibration">Enable Vibration</string>
+    <string name="enable_sound">Enable Sound</string>
+    <string name="auto_correct">Auto Correct</string>
+    <string name="developer">Developer: Ammar Al-Raidi</string>
+</resources>
